@@ -57,6 +57,8 @@ A repository of tools that interact with the RiskSense API.
 
 ## Test Cases
 
+Please refer for testcase xlsx for latest testcases
+
 ## Requirements
 * A working [Python 3](https://python.org) installation is required.
 * Additionally, the following Python packages are required:
