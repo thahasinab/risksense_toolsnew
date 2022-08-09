@@ -3,6 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
+
 Welcome to risksensetools's documentation!
 ==========================================
 
@@ -11,8 +13,9 @@ Welcome to risksensetools's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents:
 
+   /pages/install
    /pages/risksense-tools
    /pages/slaoverviewdashboard
 
@@ -26,11 +29,8 @@ Indices and tables
 
 .. |made-with-python| image:: https://img.shields.io/badge/Made%20with-Python-1f425f.svg
    :target: https://www.python.org/
-.. |PyPi| image:: https://badge.fury.io/py/axonius-api-client.svg
-   :target: https://pypi.org/project/axonius-api-client/
-   :alt: PyPi listing
 .. |github| image:: https://badge.fury.io/gh/Axonius%2Faxonius_api_client.svg
-   :target: https://github.com/risksense/risksense_tools/blob/master/docs/pages/slaoverviewdashboard.rst
+   :target: https://github.com/risksense/risksense_tools
    :alt: GitHub repository
 .. |doc-status| image:: https://readthedocs.org/projects/axonius-api-client/badge/?version=latest
    :target: https://axonius-api-client.readthedocs.io/en/latest/?badge=latest
