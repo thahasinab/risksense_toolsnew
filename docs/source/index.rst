@@ -19,6 +19,7 @@ Welcome to the risksense package. Get started in understanding the different api
 
    /pages/install
    /pages/risksense-api-usage
+   /pages/risksense-tools
 
 
 Indices and tables
