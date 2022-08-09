@@ -10,9 +10,6 @@ Risksense Tools
 ======================================
 A repository of tools that interact with the RiskSense API.
 
-`AVAILABLE TOOLS`
-**************************
-
 `Sla Overview Dashboard`
 *************************
 The sla overview dashboard is a tool that can be used to view the sla overview dashboard in the terminal .
@@ -49,13 +46,11 @@ configured to reflect your desired values.
 
 The configuration needed inside config.toml are
 
-+------------------------+------------+----------+
-| Name   | Type |
-+========================+============+==========+
-| Client id   | int  |
-+------------------------+------------+----------+
-| Platform url  | str   |
-+------------------------+-----------------------+
+.. code:: toml
+  
+  platform_url = 'https://platform2.risksense.com'
+  client_id = '790'
+  api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 Usage
 -------
@@ -64,13 +59,15 @@ To execute the script, using your terminal, navigate to the
 unzipped folder containing the script. Issue the following
 command:
 
-.. code-block:: console
+.. code:: python
 
     python3 slaoverview.py
 
        --- OR (depending on your install) ---
 
     python slaoverview.py
+
+
 
 
 Fill the necessary data input in the terminal prompts and the
