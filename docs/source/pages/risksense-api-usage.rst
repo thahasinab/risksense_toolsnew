@@ -37,16 +37,14 @@ Now post the risksense object creation, you can use the object ``self.rs`` for u
   
     >>> self.rs.{subjectname}.{function}
 
-.. list-table:: Code data
-   :widths: 25 25 50
-   :header-rows: 1
 
-   * - Variable
-     - Description
-   * - subjectname
-     - The subject module present in the lib package
-   * - function
-     - The function defined for that particular subject  
++----------+----------+
+| Variable | Description|
++==========+==========+
+| subjectname        | The subject module present in the lib package      |
++----------+----------+
+| function        | The function defined for that particular subject      |
++----------+----------+
 
 
 
