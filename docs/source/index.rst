@@ -8,7 +8,7 @@
 Welcome to risksensetools's documentation!
 ==========================================
 
-|made-with-python| |PyPi| |github| |doc-status|
+|made-with-python| |github| |doc-status|
 
 Welcome to the risksense package. Get started in understanding the different api functionalities in the risksense platform along with the tools to get you started.
 
