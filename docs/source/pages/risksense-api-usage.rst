@@ -1,7 +1,4 @@
 .. include:: /main/.special.rst
-.. raw:: html
-
-    <style> .red {color:red} </style>
 
 .. _installation:
 
