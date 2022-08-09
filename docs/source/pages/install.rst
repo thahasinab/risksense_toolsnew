@@ -1,4 +1,3 @@
-.. include:: /pages/.special.rst
 
 .. _installation:
 
