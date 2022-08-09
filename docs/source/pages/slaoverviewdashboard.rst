@@ -59,6 +59,5 @@ Fill the necessary data input in the terminal prompts and the dashboard data wil
 
 
 .. note::
-    
-    1. Please check SLAOverview.log for the log of the script for 
-        more information of any errors or info while running the script
+   Please check SLAOverview.log for the log of the script for 
+   more information of any errors or info while running the script
