@@ -10,14 +10,15 @@ Welcome to risksensetools's documentation!
 
 |made-with-python| |PyPi| |github| |doc-status|
 
+Welcome to the risksense package. Get started in understanding the different api functionalities in the risksense platform along with the tools to get you started.
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Table of Contents:
 
    /pages/install
-   /pages/risksense-tools
-   /pages/slaoverviewdashboard
+   /pages/risksense-api-usage
 
 
 Indices and tables
