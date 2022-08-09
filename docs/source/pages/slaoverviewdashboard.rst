@@ -16,6 +16,7 @@ ability to install Python packages.
 
 
 `Installation`
+--------------
 
 Copy the zip file to your desired location and unzip it.
 Using your terminal, navigate to the folder that you just
@@ -24,6 +25,7 @@ unzipped. Run the main.py file in the terminal
 
 
 `Configuration`
+---------------
 
 The configuration file is found at conf/config.toml. This
 file is formatted using TOML formatting. Using your preferred
@@ -41,6 +43,7 @@ configured to reflect your desired values.
 
 
 `Usage`
+-------
 
 
 To execute the script, using your terminal, navigate to the
@@ -55,7 +58,6 @@ command:
 Fill the necessary data input in the terminal prompts and the dashboard data will be shown in the terminal
 
 
-`NOTE`
-
-1. Please check SLAOverview.log for the log of the script for 
-   more information of any errors or info while running the script
+.. note::
+    1. Please check SLAOverview.log for the log of the script for 
+        more information of any errors or info while running the script

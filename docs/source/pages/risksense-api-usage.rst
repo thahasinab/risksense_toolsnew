@@ -35,16 +35,10 @@ Now post the risksense object creation, you can use the object ``self.rs`` for u
 
 .. code-block:: console
   
-    >>> self.rs.{subjectname}.{function}
-
-
-+----------+----------+
-| Variable | Description|
-+==========+==========+
-| subjectname        | The subject module present in the lib package      |
-+----------+----------+
-| function        | The function defined for that particular subject      |
-+----------+----------+
+    >>> self.rs.{subjectname}.{functionname}
+    where 
+        subjectname - The subject module present in the lib package
+        functionname - The functionname define for  that particular subject
 
 
 
