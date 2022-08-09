@@ -40,7 +40,7 @@ a {
   
   .wy-menu-vertical li.toctree-l2.current li.toctree-l3.current>a {
     color: white;
-    background: #ff6633;
+    background: #ff0404;
   }
   
   .wy-menu-vertical li.toctree-l2.current li.toctree-l3.current>a,
@@ -50,11 +50,11 @@ a {
     .wy-menu-vertical li.toctree-l3.current>a,
     .wy-menu-vertical li.toctree-l4.current>a {
     color: white;
-    background: #ff6633;
+    background: #ff0404;
   }
   
   .axon {
-    color: #ff6633;
+    color: #ff0404;
   }
   .black {
     color: black;
