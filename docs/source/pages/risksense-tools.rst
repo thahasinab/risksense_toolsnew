@@ -76,9 +76,6 @@ command:
 Fill the necessary data input in the terminal prompts and the
 dashboard data will be shown in the terminal
 
-+-------------+----------------------------------------------
-|    NOTE    |
-+-------------+
-
-1. Please check SLAOverview.log for the log of the script for 
+.. note::
+   Please check SLAOverview.log for the log of the script for 
    more information of any errors or info while running the script
