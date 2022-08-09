@@ -14,7 +14,7 @@ A repository of tools that interact with the RiskSense API.
 **************************
 
 `Sla Overview Dashboard`
-======================
+*************************
 The sla overview dashboard is a tool that can be used to view the dla overview dashboard in the terminal .
 
 Requirements
